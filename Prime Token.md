@@ -12,3 +12,6 @@ https://primetoken.io/whitepaper.pdf
 
 ## Prime Token Total Supply 
 15,485,863 Tokens
+
+## Contract Address
+[0x6415D6a088a1e8195f90b8fB12dA085dB4bd6e0D](https://polygonscan.com/token/0x6415d6a088a1e8195f90b8fb12da085db4bd6e0d)
