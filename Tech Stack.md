@@ -2,6 +2,6 @@
 
 - Frontend: VueJS, TailwindCSS
 - Backend: PHP
-- Database: MongoDB
-- Payments: Primetoken/Stripe/Paypal
+- Database: MySQL
+- Payments: PrimeToken/Stripe/Paypal
 - Other: GitHub, Postman, Figma (for design)
